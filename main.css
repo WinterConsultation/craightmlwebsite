@@ -1,6 +1,38 @@
-h1 { color: red;
 
+* { 
+box-sizing: border-box;
 }
-* { background-color: aliceblue;
-font-size: 12px;
+
+body {
+    background-color: white;
 }
+
+.banner1 {
+background-color:black;
+color:white;
+padding:30px;
+}
+
+.makeMeBlue {
+    color:blue;
+}
+/*
+
+<span style="color:blue">
+
+*/
+
+/* NAVBAR IN PROGRESS
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  } 
+  
+  li a {
+    display: block;
+    background-color: #dddddd;
+  }
+
+  */
