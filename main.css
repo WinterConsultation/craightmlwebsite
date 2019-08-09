@@ -13,6 +13,14 @@ padding:30px;
 .makeMeBlue {
     color:blue;
 }
+
+@import url(https://fonts.googleapis.com/css?family=Nunito&display=swap);body {
+    background-color: #eee;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+   }
+
+
 /*
 
 <span style="color:blue">
