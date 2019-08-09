@@ -3,11 +3,8 @@
 box-sizing: border-box;
 }
 
-body {
-    background-color: white;
-}
 
-.banner1 {
+.banner1 { 
 background-color:black;
 color:white;
 padding:30px;
